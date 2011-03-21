@@ -1,3 +1,5 @@
+package test;
+
 import log.ConcatTest;
 import log.ErrorTest;
 
