@@ -1,4 +1,4 @@
-package task1;
+package tasks.task1;
 
 import java.util.StringTokenizer;
 import java.util.regex.Pattern;
